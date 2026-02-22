@@ -26,7 +26,6 @@ Plataforma desarrollada bajo un enfoque formal de Ingeniería de Software que in
 - 📅 Agenda inteligente con validación de conflictos  
 - 📩 Solicitud y confirmación de citas  
 - 📂 Expediente médico digital  
-- 💳 Pagos y facturación  
 - 🔐 Control de acceso por roles  
 - 🤖 Asistente virtual  
 
@@ -90,6 +89,8 @@ Página pública del consultorio y panel editable para la administradora.
 
 <p align="center">
   <a href="https://youtu.be/QgtuNl477kU">
+    ▶️
+    <br/>
     <img src="https://img.youtube.com/vi/QgtuNl477kU/0.jpg" width="600"/>
   </a>
 </p>
@@ -123,6 +124,8 @@ Sistema central de solicitudes con validación en tiempo real.
 
 <p align="center">
   <a href="https://youtu.be/ahpfHCHXFKY">
+  ▶️
+    <br/>
     <img src="https://img.youtube.com/vi/ahpfHCHXFKY/0.jpg" width="600"/>
   </a>
 </p>
@@ -139,6 +142,8 @@ Sistema central de solicitudes con validación en tiempo real.
 
 <p align="center">
   <a href="https://youtu.be/S1YaINKZ-RE">
+  ▶️
+    <br/>
     <img src="https://img.youtube.com/vi/S1YaINKZ-RE/0.jpg" width="600"/>
   </a>
 </p>
@@ -194,6 +199,8 @@ Gestión clínica estructurada con historial y control de tratamiento vigente.
 
 <p align="center">
   <a href="https://youtu.be/aKs6vk8ue-w">
+  ▶️
+    <br/>
     <img src="https://img.youtube.com/vi/aKs6vk8ue-w/0.jpg" width="600"/>
   </a>
 </p>
