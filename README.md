@@ -31,6 +31,12 @@ Plataforma desarrollada bajo un enfoque formal de Ingeniería de Software que in
 
 ---
 
+<p align="center">
+  <a href="https://github.com/nahum0804/fisioterapia-RH" target="_blank">
+    <img src="https://img.shields.io/badge/🔗%20Ver%20Repositorio%20Backend-Flask%20API-black?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
 # 🏗 Arquitectura
 
 <p align="center">
