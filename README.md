@@ -31,6 +31,23 @@ Plataforma desarrollada bajo un enfoque formal de Ingeniería de Software que in
 
 ---
 
+
+## 👩‍💻 Mis Contribuciones = Jojashley Chaves Aguilar
+
+Desarrollé el **sistema de gestión de usuarios**, que incluye:
+- Registro de usuarios
+- Funcionalidad de inicio de sesión
+- Recuperación de contraseña
+  
+Implementé la **gestión de expedientes de pacientes**, que incluye:
+- Creación y gestión de expedientes de pacientes
+- Vinculación de expedientes con usuarios registrados cuando corresponda
+- Gestión de diagnósticos y tratamientos
+- Gestión del estado de los tratamientos (activos/inactivos)
+- Colaboré en un entorno de equipo utilizando tecnologías web modernas
+
+---
+
 <p align="center">
   <a href="https://github.com/nahum0804/fisioterapia-RH" target="_blank">
     <img src="https://img.shields.io/badge/🔗%20Ver%20Repositorio%20Backend-Flask%20API-black?style=for-the-badge&logo=github"/>
